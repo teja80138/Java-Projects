@@ -2,7 +2,7 @@ public class test{
     /**
      * @param args
      */
-    public static void main(String[] args){
+    {
         int[] array = {5,3,1,4,2};
         //selectionSort(array);
         insertionSort(array);

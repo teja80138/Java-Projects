@@ -1,0 +1,625 @@
+!SESSION 2024-07-03 12:41:25.712 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring -data /Users/neil/Documents/Java Workspace
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-03 12:41:27.294
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-03 12:41:28.856
+!MESSAGE Logback config file: /Users/neil/Documents/Java Workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-07-07 10:17:27.855 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-07 10:17:29.744
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-07 10:17:31.104
+!MESSAGE Logback config file: /Users/neil/Documents/Java Workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-07-07 10:18:49.254 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-07 10:18:50.878
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-07 10:18:52.257
+!MESSAGE Logback config file: /Users/neil/Documents/Java Workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-07-08 12:31:04.507 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring -data /Users/neil/Documents/Java Workspace
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-08 12:31:06.109
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-08 12:31:07.424
+!MESSAGE Logback config file: /Users/neil/Documents/Java Workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-07-10 17:49:55.443 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring -data /Users/neil/Documents/Java Workspace
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-10 17:49:57.172
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-10 17:49:58.601
+!MESSAGE Logback config file: /Users/neil/Documents/Java Workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-07-10 18:09:17.556 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring -data /Users/neil/Documents/Java Workspace
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-10 18:09:19.601
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-10 18:09:20.866
+!MESSAGE Logback config file: /Users/neil/Documents/Java Workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-07-10 18:10:06.737 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring -data /Users/neil/Documents/Java Workspace
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-10 18:10:08.596
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-10 18:10:10.062
+!MESSAGE Logback config file: /Users/neil/Documents/Java Workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-07-10 18:19:04.322 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring -data /Users/neil/Documents/Java Workspace
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-10 18:19:06.536
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-10 18:19:07.805
+!MESSAGE Logback config file: /Users/neil/Documents/Java Workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-07-11 10:05:42.180 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring -data /Users/neil/Documents/Java Workspace
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-11 10:05:44.008
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-11 10:05:45.226
+!MESSAGE Logback config file: /Users/neil/Documents/Java Workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-07-15 09:37:34.816 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-15 09:37:36.264
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-15 09:37:37.695
+!MESSAGE Logback config file: /Users/neil/Documents/Java Workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-07-15 12:15:00.098 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring -data /Users/neil/Documents/Java Workspace
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-15 12:15:02.122
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-15 12:15:03.656
+!MESSAGE Logback config file: /Users/neil/Documents/Java Workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-07-16 10:10:25.377 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring -data /Users/neil/Documents/Java Workspace
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-16 10:10:26.832
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-16 10:10:28.140
+!MESSAGE Logback config file: /Users/neil/Documents/Java Workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-07-20 12:30:48.628 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring -data /Users/neil/Documents/Java Workspace
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-20 12:30:50.054
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-20 12:30:51.318
+!MESSAGE Logback config file: /Users/neil/Documents/Java Workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-07-24 09:32:44.609 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring -data /Users/neil/Documents/Java Workspace
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-24 09:32:46.318
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-24 09:32:47.687
+!MESSAGE Logback config file: /Users/neil/Documents/Java Workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-07-24 09:45:41.881 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring -data /Users/neil/Documents/Java Workspace
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-24 09:45:43.565
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-24 09:45:44.829
+!MESSAGE Logback config file: /Users/neil/Documents/Java Workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-07-28 10:54:57.566 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-28 10:54:59.071
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-28 10:55:00.395
+!MESSAGE Logback config file: /Users/neil/Documents/Java Workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-07-30 10:02:57.751 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring -data /Users/neil/Documents/Java Workspace
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-30 10:02:59.183
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-30 10:03:00.429
+!MESSAGE Logback config file: /Users/neil/Documents/Java Workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-07-31 15:13:54.363 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring -data /Users/neil/Documents/Java Workspace
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-31 15:13:56.234
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-31 15:13:57.810
+!MESSAGE Logback config file: /Users/neil/Documents/Java Workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-08-01 10:34:18.463 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring -data /Users/neil/Documents/Java Workspace
+
+!ENTRY ch.qos.logback.classic 1 0 2024-08-01 10:34:20.249
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-08-01 10:34:21.505
+!MESSAGE Logback config file: /Users/neil/Documents/Java Workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-08-03 14:22:30.173 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2024-08-03 14:22:32.018
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-08-03 14:22:33.490
+!MESSAGE Logback config file: /Users/neil/Documents/Java Workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2024-08-03 21:17:44.506
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2024-08-03 21:17:44.515
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.515
+!MESSAGE "Git integration for Eclipse" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.515
+!MESSAGE "Jetty :: Server Core" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.515
+!MESSAGE "Jetty :: Utilities" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.515
+!MESSAGE "Jetty :: IO Utility" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.515
+!MESSAGE "Apache Commons Logging" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.515
+!MESSAGE "Java implementation of Git" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.515
+!MESSAGE "Java implementation of Git - optional Http support using Apache httpclient" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.520
+!MESSAGE "Apache Mina SSHD :: OSGi" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.520
+!MESSAGE "Jetty :: Security" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.520
+!MESSAGE "Java implementation of Git - GPG support using BouncyCastle" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.520
+!MESSAGE "slf4j-api" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.520
+!MESSAGE "bcpg" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.520
+!MESSAGE "jna" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.520
+!MESSAGE "Apache Apache HttpCore OSGi bundle" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.520
+!MESSAGE "Apache Mina SSHD :: SFTP" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.520
+!MESSAGE "bcpkix" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.520
+!MESSAGE "Apache Commons Compress" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.520
+!MESSAGE "bcutil" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.520
+!MESSAGE "Gson" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.520
+!MESSAGE "bcprov" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.520
+!MESSAGE "OSGi System Bundle" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.520
+!MESSAGE "Java implementation of Git - ssh support using Apache MINA sshd" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.520
+!MESSAGE "Jetty :: Http Utility" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2024-08-03 21:17:44.521
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-08-03 21:17:44.522
+!MESSAGE Software being installed: Git integration for Eclipse - Gitflow support 6.9.0.202403050737-r (org.eclipse.egit.gitflow.feature.feature.group 6.9.0.202403050737-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-08-03 21:17:44.522
+!MESSAGE Software currently installed: Git integration for Eclipse 6.10.0.202406032230-r (org.eclipse.egit.feature.group 6.10.0.202406032230-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-08-03 21:17:44.522
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-08-03 21:17:44.522
+!MESSAGE Git integration for Eclipse - UI 6.10.0.202406032230-r (org.eclipse.egit.ui 6.10.0.202406032230-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-08-03 21:17:44.522
+!MESSAGE Git integration for Eclipse - UI 6.9.0.202403050737-r (org.eclipse.egit.ui 6.9.0.202403050737-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-08-03 21:17:44.522
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-08-03 21:17:44.522
+!MESSAGE From: Git integration for Eclipse 6.10.0.202406032230-r (org.eclipse.egit.feature.group 6.10.0.202406032230-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-08-03 21:17:44.522
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.egit.ui [6.10.0.202406032230-r,6.10.0.202406032230-r]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-08-03 21:17:44.522
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-08-03 21:17:44.522
+!MESSAGE From: Git integration for Eclipse - Gitflow support 6.9.0.202403050737-r (org.eclipse.egit.gitflow.feature.feature.group 6.9.0.202403050737-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-08-03 21:17:44.522
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.egit.ui [6.9.0,6.10.0)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2024-08-03 21:17:44.574
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2024-08-03 21:17:44.574
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.574
+!MESSAGE "Git integration for Eclipse" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.574
+!MESSAGE "Jetty :: Server Core" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.574
+!MESSAGE "Jetty :: Utilities" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.574
+!MESSAGE "Jetty :: IO Utility" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.574
+!MESSAGE "Apache Commons Logging" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.574
+!MESSAGE "Java implementation of Git" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.574
+!MESSAGE "Java implementation of Git - optional Http support using Apache httpclient" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.574
+!MESSAGE "Apache Mina SSHD :: OSGi" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.574
+!MESSAGE "Jetty :: Security" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.574
+!MESSAGE "Java implementation of Git - GPG support using BouncyCastle" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.574
+!MESSAGE "slf4j-api" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.575
+!MESSAGE "bcpg" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.575
+!MESSAGE "jna" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.575
+!MESSAGE "Apache Apache HttpCore OSGi bundle" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.575
+!MESSAGE "Apache Mina SSHD :: SFTP" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.576
+!MESSAGE "bcpkix" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.576
+!MESSAGE "Apache Commons Compress" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.576
+!MESSAGE "bcutil" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.576
+!MESSAGE "Gson" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.576
+!MESSAGE "bcprov" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.576
+!MESSAGE "OSGi System Bundle" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.576
+!MESSAGE "Java implementation of Git - ssh support using Apache MINA sshd" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.576
+!MESSAGE "Jetty :: Http Utility" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2024-08-03 21:17:44.576
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-08-03 21:17:44.576
+!MESSAGE Software being installed: Git integration for Eclipse - Gitflow support 6.9.0.202403050737-r (org.eclipse.egit.gitflow.feature.feature.group 6.9.0.202403050737-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-08-03 21:17:44.576
+!MESSAGE Software currently installed: Git integration for Eclipse 6.10.0.202406032230-r (org.eclipse.egit.feature.group 6.10.0.202406032230-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-08-03 21:17:44.576
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-08-03 21:17:44.576
+!MESSAGE Git integration for Eclipse - UI 6.10.0.202406032230-r (org.eclipse.egit.ui 6.10.0.202406032230-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-08-03 21:17:44.576
+!MESSAGE Git integration for Eclipse - UI 6.9.0.202403050737-r (org.eclipse.egit.ui 6.9.0.202403050737-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-08-03 21:17:44.576
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-08-03 21:17:44.576
+!MESSAGE From: Git integration for Eclipse 6.10.0.202406032230-r (org.eclipse.egit.feature.group 6.10.0.202406032230-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-08-03 21:17:44.576
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.egit.ui [6.10.0.202406032230-r,6.10.0.202406032230-r]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-08-03 21:17:44.576
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-08-03 21:17:44.576
+!MESSAGE From: Git integration for Eclipse - Gitflow support 6.9.0.202403050737-r (org.eclipse.egit.gitflow.feature.feature.group 6.9.0.202403050737-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-08-03 21:17:44.576
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.egit.ui [6.9.0,6.10.0)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2024-08-03 21:17:44.638
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2024-08-03 21:17:44.638
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.638
+!MESSAGE "Git integration for Eclipse" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.638
+!MESSAGE "Jetty :: Server Core" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.638
+!MESSAGE "Jetty :: Utilities" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.638
+!MESSAGE "Jetty :: IO Utility" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.638
+!MESSAGE "Apache Commons Logging" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.638
+!MESSAGE "Java implementation of Git" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.638
+!MESSAGE "Java implementation of Git - optional Http support using Apache httpclient" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.638
+!MESSAGE "Apache Mina SSHD :: OSGi" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.638
+!MESSAGE "Jetty :: Security" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.638
+!MESSAGE "Java implementation of Git - GPG support using BouncyCastle" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.638
+!MESSAGE "slf4j-api" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.638
+!MESSAGE "bcpg" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.638
+!MESSAGE "jna" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.638
+!MESSAGE "Apache Apache HttpCore OSGi bundle" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.638
+!MESSAGE "Apache Mina SSHD :: SFTP" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.638
+!MESSAGE "bcpkix" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.638
+!MESSAGE "Apache Commons Compress" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.638
+!MESSAGE "bcutil" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.638
+!MESSAGE "Gson" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.638
+!MESSAGE "bcprov" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.638
+!MESSAGE "OSGi System Bundle" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.638
+!MESSAGE "Java implementation of Git - ssh support using Apache MINA sshd" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.638
+!MESSAGE "Jetty :: Http Utility" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2024-08-03 21:17:44.638
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-08-03 21:17:44.638
+!MESSAGE Software being installed: Git integration for Eclipse - Gitflow support 6.9.0.202403050737-r (org.eclipse.egit.gitflow.feature.feature.group 6.9.0.202403050737-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-08-03 21:17:44.638
+!MESSAGE Software currently installed: Git integration for Eclipse 6.10.0.202406032230-r (org.eclipse.egit.feature.group 6.10.0.202406032230-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-08-03 21:17:44.638
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-08-03 21:17:44.638
+!MESSAGE Git integration for Eclipse - UI 6.10.0.202406032230-r (org.eclipse.egit.ui 6.10.0.202406032230-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-08-03 21:17:44.638
+!MESSAGE Git integration for Eclipse - UI 6.9.0.202403050737-r (org.eclipse.egit.ui 6.9.0.202403050737-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-08-03 21:17:44.638
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-08-03 21:17:44.638
+!MESSAGE From: Git integration for Eclipse 6.10.0.202406032230-r (org.eclipse.egit.feature.group 6.10.0.202406032230-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-08-03 21:17:44.638
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.egit.ui [6.10.0.202406032230-r,6.10.0.202406032230-r]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-08-03 21:17:44.638
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-08-03 21:17:44.639
+!MESSAGE From: Git integration for Eclipse - Gitflow support 6.9.0.202403050737-r (org.eclipse.egit.gitflow.feature.feature.group 6.9.0.202403050737-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-08-03 21:17:44.639
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.egit.ui [6.9.0,6.10.0)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2024-08-03 21:17:44.639
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2024-08-03 21:17:44.639
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.639
+!MESSAGE "Git integration for Eclipse" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.639
+!MESSAGE "Jetty :: Server Core" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.639
+!MESSAGE "Jetty :: Utilities" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.639
+!MESSAGE "Jetty :: IO Utility" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.639
+!MESSAGE "Apache Commons Logging" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.639
+!MESSAGE "Java implementation of Git" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.639
+!MESSAGE "Java implementation of Git - optional Http support using Apache httpclient" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.639
+!MESSAGE "Apache Mina SSHD :: OSGi" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.639
+!MESSAGE "Jetty :: Security" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.639
+!MESSAGE "Java implementation of Git - GPG support using BouncyCastle" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.639
+!MESSAGE "slf4j-api" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.639
+!MESSAGE "bcpg" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.639
+!MESSAGE "jna" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.639
+!MESSAGE "Apache Apache HttpCore OSGi bundle" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.639
+!MESSAGE "Apache Mina SSHD :: SFTP" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.639
+!MESSAGE "bcpkix" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.639
+!MESSAGE "Apache Commons Compress" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.639
+!MESSAGE "bcutil" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.639
+!MESSAGE "Gson" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.639
+!MESSAGE "bcprov" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.640
+!MESSAGE "OSGi System Bundle" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.640
+!MESSAGE "Java implementation of Git - ssh support using Apache MINA sshd" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2024-08-03 21:17:44.640
+!MESSAGE "Jetty :: Http Utility" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2024-08-03 21:17:44.640
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-08-03 21:17:44.640
+!MESSAGE Software being installed: Git integration for Eclipse - Gitflow support 6.9.0.202403050737-r (org.eclipse.egit.gitflow.feature.feature.group 6.9.0.202403050737-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2024-08-03 21:17:44.640
+!MESSAGE Software currently installed: Git integration for Eclipse 6.10.0.202406032230-r (org.eclipse.egit.feature.group 6.10.0.202406032230-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-08-03 21:17:44.640
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-08-03 21:17:44.640
+!MESSAGE Git integration for Eclipse - UI 6.10.0.202406032230-r (org.eclipse.egit.ui 6.10.0.202406032230-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-08-03 21:17:44.640
+!MESSAGE Git integration for Eclipse - UI 6.9.0.202403050737-r (org.eclipse.egit.ui 6.9.0.202403050737-r)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-08-03 21:17:44.640
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-08-03 21:17:44.640
+!MESSAGE From: Git integration for Eclipse 6.10.0.202406032230-r (org.eclipse.egit.feature.group 6.10.0.202406032230-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-08-03 21:17:44.640
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.egit.ui [6.10.0.202406032230-r,6.10.0.202406032230-r]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2024-08-03 21:17:44.640
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-08-03 21:17:44.640
+!MESSAGE From: Git integration for Eclipse - Gitflow support 6.9.0.202403050737-r (org.eclipse.egit.gitflow.feature.feature.group 6.9.0.202403050737-r)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2024-08-03 21:17:44.640
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.egit.ui [6.9.0,6.10.0)
+!SESSION 2024-08-03 21:54:45.020 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2024-08-03 21:54:47.586
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-08-03 21:54:49.537
+!MESSAGE Logback config file: /Users/neil/Documents/Java Workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-08-05 09:38:06.013 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2024-08-05 09:38:07.724
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-08-05 09:38:08.989
+!MESSAGE Logback config file: /Users/neil/Documents/Java Workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-08-06 12:50:24.083 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring -data /Users/neil/Documents/Java Workspace
+
+!ENTRY ch.qos.logback.classic 1 0 2024-08-06 12:50:26.466
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-08-06 12:50:28.006
+!MESSAGE Logback config file: /Users/neil/Documents/Java Workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-08-09 11:57:45.709 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring -data /Users/neil/Documents/Java Workspace
+
+!ENTRY ch.qos.logback.classic 1 0 2024-08-09 11:57:47.991
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-08-09 11:57:49.784
+!MESSAGE Logback config file: /Users/neil/Documents/Java Workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-08-12 09:49:11.071 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.java.product -keyring /Users/neil/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2024-08-12 09:49:12.530
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-08-12 09:49:13.852
+!MESSAGE Logback config file: /Users/neil/Documents/Java Workspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml

@@ -1,0 +1,17 @@
+package chapter5;
+
+import java.util.Arrays;
+
+public class meow {
+	public static void main(String[] args) {
+		int[] a= {1,2,3};
+		int[] b = a;
+		int[] c= b;
+		b[0]=4;
+		b[1]=5;
+		c[2]=b[2];
+		System.out.println(Arrays.toString(a));
+		System.out.println(Arrays.toString(b));
+		System.out.println(Arrays.toString(c));
+	}
+}

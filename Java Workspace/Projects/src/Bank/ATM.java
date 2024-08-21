@@ -3,63 +3,69 @@ package Bank;
 import java.util.Scanner;
 
 public class ATM {
-	static String login = "out";
-	static BankAccount user = new BankAccount(1000);
-	public static void main(String[] args) {
-		while (login.equals("out")) {
-			Login();
-		}
+    static String loginStatus = "out";
+    static BankAccount user = new BankAccount(1000);
+    static Scanner scan = new Scanner(System.in);
 
-		while (login.equals("in")) {
-			runATM();
-		}
-	}
-	public static void Login() {
-		
-		Scanner scan = new Scanner(System.in);
+    public static void main(String[] args) {
+        while (true) {
+            if (loginStatus.equals("out")) {
+                login();
+            } else if (loginStatus.equals("in")) {
+                runATM();
+            } else {
+                System.out.println("Invalid login status.");
+                break;
+            }
+        }
+    }
 
-		
-		System.out.print("Please enter name: ");
-		String name = scan.nextLine();
-		System.out.print("Please enter id: ");
-		String id = scan.nextLine();
-		
-		
-		
-		if (name.equals("Neil Bhattacharyya")) {
-			if (id.equals("180900192")) {
-				login = "in";
-			}
-			else {
-				System.out.println("Please try again, your name or id was not correct.");
-			}
-		}
-		else {
-			System.out.println("\n\nPlease try again. \n");
-		}
-	}
-	public static void runATM() {
-		
-		Scanner scan = new Scanner(System.in);
-		
-		System.out.print("\n\nWould you like to... \n\t1. Withdraw\n\t2.Check acccount balance\n\t3.Exit\n: " );
-		
-		String choice = scan.next();
-		
-		if (choice.equals("1")) {
-			System.out.print("\n\nHow much would you like to withdraw... your account balance is $"+user.get_Balance()+"\n:");
-			double with = scan.nextDouble();
-			user.Withdraw(with);
-		}
-		else if (choice.equals("2")) {
-			System.out.print("\n\nYour account balance is $"+user.get_Balance()+"\n\n");
-		}
-		else {
-			System.out.println("\n\nThank you, and have a nice day!");
-			login = "out";
-		}
-	}
-	public static void checkAccount() {
-		
-	}
+    public static void login() {
+        System.out.print("Please enter name: ");
+        String name = scan.nextLine();
+        System.out.print("Please enter ID: ");
+        String id = scan.nextLine();
+
+        if (name.equals("Neil Bhattacharyya") && id.equals("180900192")) {
+            loginStatus = "in";
+        } else {
+            System.out.println("Invalid name or ID. Please try again.\n");
+        }
+    }
+
+    public static void runATM() {
+        System.out.print("\nWould you like to... \n\t1. Withdraw\n\t2. Check account balance\n\t3. Exit\n: ");
+        String choice = scan.next();
+
+        switch (choice) {
+            case "1":
+                withdraw();
+                break;
+            case "2":
+                checkAccount();
+                break;
+            case "3":
+                System.out.println("Thank you, and have a nice day!");
+                loginStatus = "out";
+                break;
+            default:
+                System.out.println("Invalid choice. Please try again.");
+        }
+    }
+
+    public static void withdraw() {
+        System.out.print("How much would you like to withdraw? Your account balance is $" + user.get_Balance() + "\n: ");
+        double amount = scan.nextDouble();
+
+        if (amount > 0 && amount <= user.get_Balance()) {
+            user.Withdraw(amount);
+            System.out.println("You have successfully withdrawn $" + amount + ". Your new balance is $" + user.get_Balance() + "\n");
+        } else {
+            System.out.println("Invalid amount. Please try again.");
+        }
+    }
+
+    public static void checkAccount() {
+        System.out.println("Your account balance is $" + user.get_Balance() + "\n");
+    }
 }
